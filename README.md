@@ -1,5 +1,5 @@
 # DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions
-Official Implementation of our paper "**DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions**. 
+Official Implementation of our paper "**DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions**. In **NeurIPS 2023**. 
 
 by 
 <a href="https://scholar.google.com/citations?user=oNlpTdcAAAAJ" target="_blank">Haochen Wang</a>,
@@ -10,6 +10,10 @@ by
 <a href="https://scholar.google.com/citations?user=qxWfV6cAAAAJ" target="_blank">Zhaoxiang Zhang</a>
 
 **[[arXiv]](https://arxiv.org/abs/2309.03576)**  **[[Paper]](https://arxiv.org/pdf/2309.03576.pdf)**
+
+:bell::bell::bell: We are happy to announce that **DropPos has been accepted by NeurIPS 2023**! :bell::bell::bell:
+
+Full code shall be released in a short while.
 
 ## Notes
 
