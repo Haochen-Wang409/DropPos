@@ -13,8 +13,6 @@ by
 
 :bell::bell::bell: We are happy to announce that **DropPos has been accepted by NeurIPS 2023**! :bell::bell::bell:
 
-Full code shall be released in a short while.
-
 ## Notes
 
 * This repo is a modification on the [MAE repo](https://github.com/facebookresearch/mae). Installation and preparation follow that repo.
@@ -24,6 +22,10 @@ Full code shall be released in a short while.
 * This repo is the official implementation of [DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions](https://arxiv.org/pdf/2309.03576.pdf).
 
 ## Motivation
+
+**TL;DR** We present a novel self-supervised pre-text task to pre-train vision transformers, *i.e.*, reconstructing dropped positions (DropPos), 
+which achieved competitive results on various evaluation protocols, such as image classification, object detection, and semantic segmentation.
+
 **Abstract.**
 As it is empirically observed that Vision Transformers (ViTs) are quite insensitive to the order of input tokens, 
 the need for an appropriate self-supervised pretext task that enhances the location awareness of ViTs is becoming evident. 
