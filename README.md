@@ -67,7 +67,7 @@ This project is under the Apache License 2.0 license. See [LICENSE](LICENSE) for
 ```bibtex
 @article{wang2023droppos,
   author  = {Wang, Haochen and Fan, Junsong and Wang, Yuxi and Song, Kaiyou and Wang, Tong and Zhang, Zhaoxiang},
-  journal = {arXiv preprint arXiv:2309.03576},
+  journal = {Advances in Neural Information Processing Systems (NeurIPS)},
   title   = {DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions},
   year    = {2023},
 }
