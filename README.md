@@ -13,6 +13,8 @@ by
 
 :bell::bell::bell: We are happy to announce that **DropPos has been accepted by NeurIPS 2023**! :bell::bell::bell:
 
+:bell::bell::bell: The pre-trained and fine-tuned models are available [here](https://pan.baidu.com/s/1xj9XiHgagKGJrJt88IfhLw?pwd=4gik) with fetch code 4gik! :bell::bell::bell:
+
 ## Notes
 
 * This repo is a modification on the [MAE repo](https://github.com/facebookresearch/mae). Installation and preparation follow that repo.
